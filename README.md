@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Safe Pass](safe-pass.com)
 
-- 🌱 I’m currently learning **Express, GraphQl**
+- 🌱 I’m currently learning **PHP, Laravel**
 
 - 👨‍💻 All of my projects are available at [bouryal.com](https://bouryal.vercel.app)
 
