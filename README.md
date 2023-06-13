@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Express, GraphQl**
 
-- 👨‍💻 All of my projects are available at [youssef.com](youssef.com)
+- 👨‍💻 All of my projects are available at [bouryal.com](https://bouryal.vercel.app)
 
 - 📫 How to reach me **youssefbouryal02@gmail.com**
 
-- 📄 Know about my experiences [youssef.com/resume](youssef.com/resume)
+- 📄 Know about my experiences [bouryal.com/resume](https://bouryal.vercel.app/#contact)
 
 - ⚡ Fun fact **turning caffeine into code ☕️💻**
 
