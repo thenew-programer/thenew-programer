@@ -2,8 +2,6 @@
 <h3 align="center">Self-taught backend developer. driven by a passion of learning new technologies.</h3>
 
 
-- 🔭 I’m currently working on [Safe Pass](safe-pass.com)
-
 - 🌱 I’m currently learning **PHP, Laravel**
 
 - 👨‍💻 All of my projects are available at [bouryal.com](https://bouryal.vercel.app)
