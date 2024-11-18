@@ -30,6 +30,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thenew-programer&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="thenew-programer" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thenew-programer&show_icons=true&locale=en&theme=gruvbox" alt="thenew-programer" /></p>
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/ybouryal" alt="ybouryal's 42 stats" /></a>
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thenew-programer&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="thenew-programer" /></p>-->
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thenew-programer&show_icons=true&locale=en&theme=gruvbox" alt="thenew-programer" /></p>-->
+<a align="center" href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/ybouryal" alt="ybouryal's 42 stats" /></a>
