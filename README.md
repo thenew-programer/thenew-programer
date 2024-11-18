@@ -32,4 +32,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thenew-programer&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="thenew-programer" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thenew-programer&show_icons=true&locale=en&theme=gruvbox" alt="thenew-programer" /></p>
-
+<img src="https://badge.mediaplus.ma/binary/ybouryal" alt="ybouryal's 42 stats" />
