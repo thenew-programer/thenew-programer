@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Youssef Bouryal</h1>
-<h3 align="center">Self-taught backend developer. driven by a passion of learning new technologies.</h3>
+<h3 align="center">Self-taught developer. driven by a passion of learning new technologies.</h3>
 
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently studying at [1337 School 42Network](https://1337.ma)
 
 - 👨‍💻 All of my projects are available at [bouryal.com](https://bouryal.vercel.app)
 
@@ -21,6 +21,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
